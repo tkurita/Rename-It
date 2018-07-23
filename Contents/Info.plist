@@ -6,10 +6,6 @@
 	<true/>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>English</string>
-	<key>CFBundleExecutable</key>
-	<string>droplet</string>
-	<key>CFBundleGetInfoString</key>
-	<string>1.0.9 copyright 2008-2011, Tetsuro KURITA</string>
 	<key>CFBundleDocumentTypes</key>
 	<array>
 		<dict>
@@ -25,8 +21,14 @@
 			<string>Viewer</string>
 		</dict>
 	</array>
+	<key>CFBundleExecutable</key>
+	<string>droplet</string>
+	<key>CFBundleGetInfoString</key>
+	<string>1.0.9 copyright 2008-2011, Tetsuro KURITA</string>
 	<key>CFBundleIconFile</key>
 	<string>droplet</string>
+	<key>CFBundleIdentifier</key>
+	<string>net.script-factory.Rename-It</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
@@ -34,11 +36,11 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.0.9</string>
+	<string>1.1</string>
 	<key>CFBundleSignature</key>
 	<string>dplt</string>
 	<key>CFBundleVersion</key>
-	<string>1.0.9</string>
+	<string>1.1</string>
 	<key>LSMinimumSystemVersionByArchitecture</key>
 	<dict>
 		<key>x86_64</key>
@@ -49,21 +51,25 @@
 	<key>LSUIElement</key>
 	<true/>
 	<key>NSHumanReadableCopyright</key>
-	<string>copyright 2008-2011, Tetsuro KURITA</string>
+	<string>copyright 2008-2016, Tetsuro KURITA</string>
 	<key>WindowState</key>
 	<dict>
+		<key>bundleDividerCollapsed</key>
+		<true/>
+		<key>bundlePositionOfDivider</key>
+		<real>422</real>
 		<key>dividerCollapsed</key>
 		<true/>
 		<key>eventLogLevel</key>
-		<integer>-1</integer>
+		<integer>2</integer>
 		<key>name</key>
 		<string>ScriptWindowState</string>
 		<key>positionOfDivider</key>
 		<real>413</real>
 		<key>savedFrame</key>
-		<string>22 138 721 740 0 0 1440 878 </string>
-		<key>selectedTabView</key>
-		<string>event log</string>
+		<string>22 137 721 740 0 0 1440 877 </string>
+		<key>selectedTab</key>
+		<string>log</string>
 	</dict>
 </dict>
 </plist>
