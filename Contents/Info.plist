@@ -23,8 +23,6 @@
 	</array>
 	<key>CFBundleExecutable</key>
 	<string>droplet</string>
-	<key>CFBundleGetInfoString</key>
-	<string>1.0.9 copyright 2008-2011, Tetsuro KURITA</string>
 	<key>CFBundleIconFile</key>
 	<string>droplet</string>
 	<key>CFBundleIdentifier</key>
@@ -51,7 +49,7 @@
 	<key>LSUIElement</key>
 	<true/>
 	<key>NSHumanReadableCopyright</key>
-	<string>copyright 2008-2016, Tetsuro KURITA</string>
+	<string>Copyright 2008-2018, Tetsuro KURITA</string>
 	<key>WindowState</key>
 	<dict>
 		<key>bundleDividerCollapsed</key>
