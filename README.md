@@ -26,6 +26,7 @@ Reqirements :
 [FinderSelection]: http://www.script-factory.net/XModules/FinderSelection/index.html
 [XFile]: http://www.script-factory.net/XModules/XFile/en/index.html
 [XList]: http://www.script-factory.net/XModules/XList/en/index.html
+[XActivate] : http://www.script-factory.net/XModules/XActivate/en/index.html
 
 ## Licence
 
