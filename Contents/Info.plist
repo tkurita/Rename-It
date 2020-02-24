@@ -34,11 +34,11 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.1</string>
+	<string>1.1.1b</string>
 	<key>CFBundleSignature</key>
 	<string>dplt</string>
 	<key>CFBundleVersion</key>
-	<string>1.1</string>
+	<string>13</string>
 	<key>LSMinimumSystemVersionByArchitecture</key>
 	<dict>
 		<key>x86_64</key>
@@ -51,15 +51,15 @@
 	<key>NSAppleEventsUsageDescription</key>
 	<string>This script needs to control other applications to run.</string>
 	<key>NSHumanReadableCopyright</key>
-	<string>Copyright 2008-2018, Tetsuro KURITA</string>
+	<string>Copyright 2008-2020, Kurita Tetsuro</string>
 	<key>WindowState</key>
 	<dict>
 		<key>bundleDividerCollapsed</key>
-		<true/>
-		<key>bundlePositionOfDivider</key>
-		<real>422</real>
-		<key>dividerCollapsed</key>
 		<false/>
+		<key>bundlePositionOfDivider</key>
+		<real>702</real>
+		<key>dividerCollapsed</key>
+		<true/>
 		<key>eventLogLevel</key>
 		<integer>2</integer>
 		<key>name</key>
@@ -67,9 +67,9 @@
 		<key>positionOfDivider</key>
 		<real>564</real>
 		<key>savedFrame</key>
-		<string>690 123 721 740 0 0 1440 877 </string>
+		<string>164 118 1001 740 0 0 1440 877 </string>
 		<key>selectedTab</key>
-		<string>log</string>
+		<string>result</string>
 	</dict>
 </dict>
 </plist>
