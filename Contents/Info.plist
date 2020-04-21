@@ -38,7 +38,7 @@
 	<key>CFBundleSignature</key>
 	<string>dplt</string>
 	<key>CFBundleVersion</key>
-	<string>13</string>
+	<string>14</string>
 	<key>LSMinimumSystemVersionByArchitecture</key>
 	<dict>
 		<key>x86_64</key>
@@ -57,7 +57,7 @@
 		<key>bundleDividerCollapsed</key>
 		<false/>
 		<key>bundlePositionOfDivider</key>
-		<real>702</real>
+		<real>551</real>
 		<key>dividerCollapsed</key>
 		<false/>
 		<key>eventLogLevel</key>
@@ -67,7 +67,7 @@
 		<key>positionOfDivider</key>
 		<real>564</real>
 		<key>savedFrame</key>
-		<string>164 118 1001 740 0 0 1440 877 </string>
+		<string>162 33 850 740 0 0 1440 877 </string>
 		<key>selectedTab</key>
 		<string>result</string>
 	</dict>
