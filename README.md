@@ -4,10 +4,10 @@ Rename It
 
 ## Usage
 English :
-* http://www.script-factory.net/software/FinderHelpers/RenameIt/en/index.html
+* https://www.script-factory.net/software/FinderHelpers/RenameIt/en/index.html
 
 Japanese :
-* http://www.script-factory.net/software/FinderHelpers/RenameIt/index.html
+* https://www.script-factory.net/software/FinderHelpers/RenameIt/index.html
 
 ## Building
 Reqirements :
@@ -30,7 +30,7 @@ Reqirements :
 
 ## Licence
 
-Copyright &copy; 2008-2018 Tetsuro Kurita
+Copyright &copy; 2008-2020 Kurita Tetsuro
 Licensed under the [GPL license][GPL].
  
 [GPL]: http://www.gnu.org/licenses/gpl.html
